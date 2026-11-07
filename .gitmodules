@@ -1,0 +1,12 @@
+[submodule "docs/tm_programowanie_aplikacji_zaawansowanych_webowych"]
+	path = docs/tm_programowanie_aplikacji_zaawansowanych_webowych
+	url = https://github.com/mateuszlewicki/tm_programowanie_aplikacji_zaawansowanych_webowych.git
+[submodule "docs/tm_projektowanie_oprogramowania"]
+	path = docs/tm_projektowanie_oprogramowania
+	url = https://github.com/mateuszlewicki/tm_projektowanie_oprogramowania.git
+[submodule "docs/tm_programowanie_obiektowe"]
+	path = docs/tm_programowanie_obiektowe
+	url = https://github.com/mateuszlewicki/tm_programowanie_obiektowe.git
+[submodule "docs/tm_projektowanie_aplikacji_desktopowych"]
+	path = docs/tm_projektowanie_aplikacji_desktopowych
+	url = https://github.com/mateuszlewicki/tm_projektowanie_aplikacji_desktopowych.git
